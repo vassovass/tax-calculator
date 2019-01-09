@@ -1,0 +1,17 @@
+AMAZEBalls SARS Income Tax Calculator
+Version 1 - MVP
+Basic HTML - intro of what is offered - form field, basic roles
+Basic CSS - more detailed styling after basic functionality works - Standard web fonts, event listeners such as hover
+JS for calculation and form - maths, validation in next version
+Actual Calculation Part
+1 field to be filled - monthly income before deductions
+Once field is filled - Output is tax amount and take home income amount
+Email me a copy field and functionality - might be included in this version
+Assumptions for this version (will be added to later versions): 
+* contributions to pension, provident or RAF are not included
+* no private contributions to RAF are included
+* no travel allowance
+How it is worked out explanation will be added in later version
+
+
+
